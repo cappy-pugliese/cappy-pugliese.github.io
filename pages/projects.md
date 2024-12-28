@@ -27,7 +27,7 @@ Effects of Various Fungal Pathogens on _Trachymyrmex septentrionalis_ Ants and t
 
 - I presented my results at UConn’s Annual Undergraduate Research Colloquium in MCB and at the Frontiers in Undergraduate Research Poster Exhibition in April 2024
 
-[click here for more info](/undergrad-research-project/)
+[click here for more info](~/../../projects/undergrad-research-project.md)
 
 
 ### Leafcutter Ant Behavior Website

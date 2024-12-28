@@ -24,5 +24,5 @@ We ran this activity with the 3rd grade classrooms at Natchaug Elementary School
 - the kids loved doing the craft since it made them feel like real scientists
 <br>
 
-<a href="'/assets/documents/ocean-in-a-bottle_activity.pdf'" target="_blank">Ocean in a bottle activity directions</a>
+<a href="/assets/documents/ocean-in-a-bottle_activity.pdf" target="_blank">Ocean in a bottle activity directions</a>
  
