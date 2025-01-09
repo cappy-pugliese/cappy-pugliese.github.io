@@ -4,7 +4,6 @@ title:  "Animal Adaptations Game"
 date:   2024-12-18T20:05:01
 author: Cappy Pugliese
 categories: Outreach
-tags: 4th-grade animal-adaptations games
 cover:  "/assets/images/owl-in-tree.png"
 ---
 

@@ -4,7 +4,6 @@ title:  "Ocean in a bottle"
 date:   2024-12-18T20:05:01
 author: Cappy Pugliese
 categories: Outreach
-tags: 3rd-grade ocean marine-life crafts
 cover:  "/assets/images/ocean-background-2.png"
 ---
 
