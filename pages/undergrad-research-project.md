@@ -14,6 +14,6 @@ I tested how a few different species of fungal pathogens affect ants and their f
 ![project poster](../assets/images/2024_undergrad-poster-presentation.jpg)
 
 <p style="text-align: center;">
-<button onclick="window.open('/assets/pdfs/poster-presentation.pdf', '_blank')" type="button">
+<button onclick="window.open('../assets/documents/poster-presentation.pdf', '_blank')" type="button">
         View Presentation Poster</button>
         </p>
