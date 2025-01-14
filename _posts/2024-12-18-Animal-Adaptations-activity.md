@@ -18,5 +18,5 @@ We ran this activity with the 4th grade classrooms at Natchaug Elementary School
 ### Predator-prey adaptations activity
 - we took the kids outside the classroom to play a game
 - they had a lot of fun because they were able to run around while still learning
-- game info and <a href="/assets/documents/4th-grade-animal-adaptations-activity.pdf" target="_blank">instructions can be found here</a>
+- <a href="/assets/documents/4th-grade-animal-adaptations-activity.pdf" target="_blank">game info and instructions can be found here</a>
  

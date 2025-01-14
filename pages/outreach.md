@@ -18,11 +18,11 @@ main_nav: true
   
   3rd grade classrooms
   - taught about ocean layers and marine life
-  - did "ocean in a bottle" craft
+  - did ["ocean in a bottle" craft](/outreach/2024/12/18/ocean-in-a-bottle.html)
 
   4th grade classrooms
   - had a class discussion about different animal adaptions
-  - played a predator-prey tag game to demonstrate advantages of certain adaptations
+  - played a [predator-prey tag game](/outreach/2024/12/18/Animal-Adaptations-activity.html) to demonstrate advantages of certain adaptations
 
 
 ## YMCA Camp Sloper Outreach

@@ -31,5 +31,5 @@ Effects of Various Fungal Pathogens on _Trachymyrmex septentrionalis_ Ants and t
 
 
 ### Leafcutter Ant Behavior Website
-I made a website for a class project that incorporated animal behavior and knowledge about my lab's model system: leafcutter ants and their fungal cultivars
+I made a website for a class project that incorporated animal behavior and knowledge about my undergraduate lab's model system: leafcutter ants and their fungal cultivars
 <a href="https://caprinalpugliese.wixsite.com/leafcutter-ants" target="_blank">Leafcutter ant behavior website</a>
