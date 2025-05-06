@@ -28,9 +28,11 @@ main_nav: true
 ## YMCA Camp Sloper Outreach
 - 143 acre outdoor campground donated to the YMCA by Cornelia Sloper Neil
 - located in Southington, CT
-- I work as a day camp counselor during the summer
-  - have worked with kids ages 5-15
-- off-season I work school field trip days
-  - nearby schools come here to have fun and experience the outdoors!
-  - supervised a variety of different classrooms and made lasting impressions
-  
+- off-season I work school field trip days, bday parties, & YMCA youth sports
+	- field trip days
+  	- nearby schools come here to have fun and experience the outdoors!
+  	- supervised a variety of different classrooms and made lasting impressions
+- Summer 2025: I am working as Sloper's Field Games Director!
+	- get to make up games for the kids to play
+	- work with all of the age groups
+- Summers 2023 & 2024: worked as a day camp counselor and bus monitor
