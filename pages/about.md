@@ -14,5 +14,5 @@ Currently, I am thinking about becoming either a middle school science teacher o
 ## Fun Facts
 - I have a cat named Spidey and I like to take him with me on hikes!
 - I like to play video games (I love zelda)
-- I am currently learning how to speak Portuguese and American Sign Language!
+- I am currently learning how to speak Portuguese!
 
