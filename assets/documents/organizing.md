@@ -8,8 +8,8 @@ maybe even put all of this in posts???? and blog style about it??? --> might be 
 
 ## Website todos:
 [] fix links at bottom of the page to open up in a new tab
-[] make new teaching page
-[] finish up field games post
+[] make new teaching page --> add to it
+[x] finish up field games post
 [] update about photo of myself??
 
 bundle exec jekyll serve
