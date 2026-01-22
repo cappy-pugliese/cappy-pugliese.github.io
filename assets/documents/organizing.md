@@ -12,4 +12,6 @@ maybe even put all of this in posts???? and blog style about it??? --> might be 
 [x] finish up field games post
 [] update about photo of myself??
 
-bundle exec jekyll serve
+
+code to run website locally:
+`bundle exec jekyll serve`
