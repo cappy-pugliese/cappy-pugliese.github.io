@@ -21,7 +21,7 @@ main_nav: true
 
 ## Past Projects
 ### The Big Book of Games
-As the Field Games Director at YMCA Camp Sloper, I decided to make a camp resource full of outdoor games for counselors to play with their campers. I made a post going more in depth about it [here](/camp/2026/01/21/Outdoor-Camp-Games-for-Kids).
+As the Field Games Director at YMCA Camp Sloper, I decided to make a camp resource full of outdoor games for counselors to play with their campers. I made a post going more in depth about it [here](/camp/2026/01/21/Outdoor-Camp-Games-for-Kids), and the resource itself can be found [here](/The-Big-Book-of-Games/).
 
 ### Undergrad Senior Year Research Project
 Effects of Various Fungal Pathogens on _Trachymyrmex septentrionalis_ Ants and their Fungal Cultivars
