@@ -4,7 +4,7 @@ title:  "Outdoor Camp Games for Kids"
 date:   2026-01-21T20:00:00
 author: Cappy Pugliese
 categories: Camp
-cover:  "/assets/images/fieldgames-w-cappy.png"
+cover:  "/assets/images/fieldgames-w-cappy.jpg"
 ---
 
 In summer 2025, I was the Field Games Director at YMCA Camp Sloper. It was my job to come up with fun outdoor games for kids ages 5-15 to play.
