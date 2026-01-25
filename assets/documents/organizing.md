@@ -11,7 +11,9 @@ maybe even put all of this in posts???? and blog style about it??? --> might be 
 [] make new teaching page --> add to it
 [x] finish up field games post
 [] update about photo of myself??
+[] update projects on main page to also list book of games
 
 
 code to run website locally:
+`source ~/.bashrc`
 `bundle exec jekyll serve`
